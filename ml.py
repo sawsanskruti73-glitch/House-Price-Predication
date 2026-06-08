@@ -14,7 +14,7 @@ st.set_page_config(
 
 # Title
 st.title(" California House Price Predictor")
-st.subheader("Developed by Shrirang Kurhe")
+st.subheader("Developed by Sanskruti Saw")
 st.write("Enter property details to predict the house value.")
 
 # Sidebar Information
